@@ -3,7 +3,7 @@
 
 ## Author
 - Nama: Eko Purnama Azi 
-- GitHub: [username]
+- GitHub: epawebsolidity 
 - Wallet: 0x980c047738c1402cdaa303315ec5aecb2a01b491
 
 ## Contract Address (Mantle Sepolia)
