@@ -219,7 +219,7 @@ contract EduLoan {
 
     /// @notice Admin deposit dana ke contract
     function depositFunds() public payable onlyAdmin {
-        // TODO: Implementasi (onlyAdmin)
+        require(msg.value > 0, "Harus mengirim MNT");
     }
 
     /// @notice Admin withdraw dana dari contract
