@@ -1,6 +1,21 @@
 # TESTING SMARTCONTRACT REMIX SOLIDITY MANTLE
+# EduLoan - Mantle Co-Learning Camp Challenge
 
+## Author
+- Nama: Eko Purnama Azi 
+- GitHub: [username]
+- Wallet: 0x980c047738c1402cdaa303315ec5aecb2a01b491
 
+## Contract Address (Mantle Sepolia)
+0x980c047738c1402cdaa303315ec5aecb2a01b491
+
+## Features Implemented
+- [✓] Apply Loan
+- [✓] Approve/Reject Loan
+- [✓] Disburse Loan
+- [✓] Make Payment
+- [x] Check Default
+- [ ] Bonus: [sebutkan jika ada]
 
 | Langkah         | Link Transaction                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -19,5 +34,8 @@
 | 4   | `getLoanDetails()` | 1       | 0x980C047738C1402cDaA303315Ec5AEcb2A01b491 | 500000000000000000 | 500            | 525000000000000000 | 525000000000000000  | 1765507875       | 1765507993    | 1797044051 | Repaid    | Biaya Course HackQuest |
 | 5   | `getLoanDetails()` | 1       | 0x980C047738C1402cDaA303315Ec5AEcb2A01b491 | 500000000000000000 | 500            | 525000000000000000 | 0                   | 1765507875       | 1765507993    | 1797044051 | Defaulted | Biaya Course HackQuest |
 
+
+## Lessons Learned
+[Tulis apa yang Anda pelajari dari challenge ini]
 
 DONE
